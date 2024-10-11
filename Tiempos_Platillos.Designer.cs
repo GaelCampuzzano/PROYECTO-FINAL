@@ -140,9 +140,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(82, 355);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(187, 20);
+            this.label5.Size = new System.Drawing.Size(200, 20);
             this.label5.TabIndex = 29;
-            this.label5.Text = "Primer Tiempo: Entremés";
+            this.label5.Text = "Quinto Tiempo: Carne Roja";
             // 
             // comboBox5
             // 
@@ -160,9 +160,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(82, 277);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(187, 20);
+            this.label4.Size = new System.Drawing.Size(201, 20);
             this.label4.TabIndex = 27;
-            this.label4.Text = "Primer Tiempo: Entremés";
+            this.label4.Text = "Cuarto Tiempo: Carne Roja";
             // 
             // comboBox4
             // 
@@ -180,9 +180,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(82, 191);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(187, 20);
+            this.label3.Size = new System.Drawing.Size(159, 20);
             this.label3.TabIndex = 25;
-            this.label3.Text = "Primer Tiempo: Entremés";
+            this.label3.Text = "Tercer Tiempo: Pasta";
             // 
             // comboBox3
             // 
@@ -200,9 +200,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(82, 110);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(187, 20);
+            this.label2.Size = new System.Drawing.Size(205, 20);
             this.label2.TabIndex = 23;
-            this.label2.Text = "Primer Tiempo: Entremés";
+            this.label2.Text = "Segundo Tiempo: Ensalada";
             // 
             // comboBox2
             // 
