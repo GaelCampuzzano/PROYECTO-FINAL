@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace PROYECTO_FINAL
 {
-    public partial class Form1 : Form
+    public partial class Tiempos_Platillos : Form
     {
-        public Form1()
+        public Tiempos_Platillos()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Tiempos_Platillos platillos = new Tiempos_Platillos();
-            platillos.Show();
         }
     }
 }
