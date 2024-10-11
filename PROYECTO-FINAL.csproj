@@ -66,6 +66,9 @@
     <Compile Include="Tiempos_Platillos.Designer.cs">
       <DependentUpon>Tiempos_Platillos.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Comanda.resx">
+      <DependentUpon>Comanda.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
