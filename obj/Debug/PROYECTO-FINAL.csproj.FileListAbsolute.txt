@@ -9,3 +9,14 @@ C:\Users\52624\Documents\Prueba\PROYECTO-FINAL\obj\Debug\PROYECTO-FINAL.csproj.G
 C:\Users\52624\Documents\Prueba\PROYECTO-FINAL\obj\Debug\PROYECTO-FINAL.csproj.CoreCompileInputs.cache
 C:\Users\52624\Documents\Prueba\PROYECTO-FINAL\obj\Debug\PROYECTO-FINAL.exe
 C:\Users\52624\Documents\Prueba\PROYECTO-FINAL\obj\Debug\PROYECTO-FINAL.pdb
+C:\Users\Gael Campuzano\source\repos\PROYECTO-FINAL\bin\Debug\PROYECTO-FINAL.exe.config
+C:\Users\Gael Campuzano\source\repos\PROYECTO-FINAL\bin\Debug\PROYECTO-FINAL.exe
+C:\Users\Gael Campuzano\source\repos\PROYECTO-FINAL\bin\Debug\PROYECTO-FINAL.pdb
+C:\Users\Gael Campuzano\source\repos\PROYECTO-FINAL\obj\Debug\PROYECTO-FINAL.csproj.AssemblyReference.cache
+C:\Users\Gael Campuzano\source\repos\PROYECTO-FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+C:\Users\Gael Campuzano\source\repos\PROYECTO-FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\Gael Campuzano\source\repos\PROYECTO-FINAL\obj\Debug\PROYECTO_FINAL.Tiempos_Platillos.resources
+C:\Users\Gael Campuzano\source\repos\PROYECTO-FINAL\obj\Debug\PROYECTO-FINAL.csproj.GenerateResource.cache
+C:\Users\Gael Campuzano\source\repos\PROYECTO-FINAL\obj\Debug\PROYECTO-FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Gael Campuzano\source\repos\PROYECTO-FINAL\obj\Debug\PROYECTO-FINAL.exe
+C:\Users\Gael Campuzano\source\repos\PROYECTO-FINAL\obj\Debug\PROYECTO-FINAL.pdb
