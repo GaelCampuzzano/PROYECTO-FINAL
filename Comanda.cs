@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace PROYECTO_FINAL
 {
-    public partial class Tiempos_Platillos : Form
+    public partial class Comanda : Form
     {
-        public Tiempos_Platillos()
+        public Comanda()
         {
             InitializeComponent();
-        }
-
-        public void crear_comanda(object sender, EventArgs e)
-        {
-            Comanda comanda = new Comanda();
-            comanda.Show();
         }
     }
 }
